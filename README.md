@@ -24,11 +24,6 @@ The dataset used for this project is named `housing.csv`. It contains the follow
 13. LSTAT: Percentage lower status of the population
 14. MEDV: Median value of owner-occupied homes in $1000's (target variable)
 
-### Usage
-1. Clone this repository.
-2. Ensure Python and required libraries are installed.
-3. Place the `housing.csv` file in the same directory as the code.
-4. Run the code.
 
 ### Code Explanation
 - Import necessary libraries: Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn modules.
